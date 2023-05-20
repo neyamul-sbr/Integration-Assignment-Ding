@@ -100,25 +100,25 @@ namespace IntegrationApp
               Ans:
                     Before Integration:
 
-                      1 Authentication: In order to access your API, which authentication mechanism should we use?
-                      2.Error Handeling: What kind of error handling should we implement for responses from your API? Can I expect any kinds of error from your API?
-                      3.Encoding Decoding: Are there any perticular encoding/decoding requirements for your API's given data?
-                      4.Request Rate: Is there any limit on number of request than your API can take per second?
-                      5.Response Time: How long genenally your API takes to provide a response?
-                      6.Testing Tool: Are there any acceptable testing tool for your API?
-                      7.Header: Are there any specific Header for your API?
-                      8.Charge: Do I need to provide any extra charge or credit to access your API?
-                      9.Noise: Are there any noises in your responsed byte array that we will convert to XML files?
+                      1 Authentication: To access your API, which authentication mechanism should we use?
+                      2. Error Handling: What kind of error handling should we implement for responses from your API? Can I expect any error from your API?
+                      3. Encoding Decoding: Are there any particular encoding/decoding requirements for your API's given data?
+                      4. Request Rate: Is there any limit on the number of requests your API can take per second?
+                      5. Response Time: How long does your API generally take to respond?
+                      6. Testing Tool: Are there any acceptable testing tools for your API?
+                      7. Header: Are there any specific Headers for your API?
+                      8. Charge: Do I need to provide any extra charge or credit to access your API?
+                      9. Noise: Are there any noises in your response byte array that we will convert to XML files?
 
                     After Integration:
 
-                     1. Improvement by Changing/Adding Endpoint: Do you have or updated or added new endpoinds that can improve the integration?
-                     2. API availability: Are there any perticular uptime, downtime mamtaintance time on your API?
-                     3. API update : Are there will be any future update that can be a problem with our integration?
-                     4. Feedback: Can you update your api for some kinds of problem. Example: The response is sending xml file with noise. Can you update it?
-                     5. Multiple Operation in Single API call: Is there a way to process multiple mobile top-ups in a single API call? If so, what are the options?
+                     1. Improvement by Changing/Adding Endpoints: Do you have updated or added new endpoints to improve the integration?
+                     2. API availability: Are there any particular uptime or downtime maintenance times on your API?
+                     3. API update: Will there be any future updates that can be a problem with our integration?
+                     4. Feedback: Can you update your API for some problems? Example: The response is sending xml file with noise. Can you update it?
+                     5. Multiple Operation in Single API Call: Can multiple mobile top-ups be processed in a single API call? If so, what are the options?
                      6. Detailed Transaction History of a user/ a day/ month /year: Are there any options to get a report or history of the mobile top-up transactions that have already been done?
-                     7. Human Service: Are there any operator or Engineer in your end that can give us human support and assistance for troubleshooting any problems?
+                     7. Human Service: Is there any operator or Engineer on your end who can give us human support and assistance for troubleshooting problems?
 
 
 
