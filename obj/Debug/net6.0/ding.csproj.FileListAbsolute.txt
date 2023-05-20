@@ -1,0 +1,15 @@
+C:\Users\neyamul\ding_assignment\ding\bin\Debug\net6.0\ding.exe
+C:\Users\neyamul\ding_assignment\ding\bin\Debug\net6.0\ding.deps.json
+C:\Users\neyamul\ding_assignment\ding\bin\Debug\net6.0\ding.runtimeconfig.json
+C:\Users\neyamul\ding_assignment\ding\bin\Debug\net6.0\ding.dll
+C:\Users\neyamul\ding_assignment\ding\bin\Debug\net6.0\ding.pdb
+C:\Users\neyamul\ding_assignment\ding\obj\Debug\net6.0\ding.csproj.AssemblyReference.cache
+C:\Users\neyamul\ding_assignment\ding\obj\Debug\net6.0\ding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neyamul\ding_assignment\ding\obj\Debug\net6.0\ding.AssemblyInfoInputs.cache
+C:\Users\neyamul\ding_assignment\ding\obj\Debug\net6.0\ding.AssemblyInfo.cs
+C:\Users\neyamul\ding_assignment\ding\obj\Debug\net6.0\ding.csproj.CoreCompileInputs.cache
+C:\Users\neyamul\ding_assignment\ding\obj\Debug\net6.0\ding.dll
+C:\Users\neyamul\ding_assignment\ding\obj\Debug\net6.0\refint\ding.dll
+C:\Users\neyamul\ding_assignment\ding\obj\Debug\net6.0\ding.pdb
+C:\Users\neyamul\ding_assignment\ding\obj\Debug\net6.0\ding.genruntimeconfig.cache
+C:\Users\neyamul\ding_assignment\ding\obj\Debug\net6.0\ref\ding.dll
